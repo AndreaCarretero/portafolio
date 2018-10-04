@@ -26,7 +26,6 @@ a {
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
-
 a:hover {
   color: #40f0e7;
 }
@@ -39,19 +38,21 @@ h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
+#short{
+  font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+}
 .p-5{
   size: 2em;
 }
 .bg-primary {
   background-color: #f3117a!important;
 }
-
-.bg-dark {
-  background-color: #f3117a !important;
+.bg-other{
+  background-color: #F05F40!important;
 }
 
 .text-faded {
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(255, 255, 255, 0.76);
 }
 
 section {
@@ -287,7 +288,7 @@ header.masthead p {
 }
 
 .text-primary {
-  color: #f3117a !important;
+  color: #050204 !important;
 }
 
 .btn {

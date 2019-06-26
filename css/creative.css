@@ -30,20 +30,8 @@ a:hover {
   color: #40f0e7;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
-}
-#short{
-  font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
-}
-.p-5{
-  size: 2em;
-}
+
+
 .bg-primary {
   background-color: #f3117a!important;
 }
